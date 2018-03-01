@@ -1,3 +1,10 @@
 # nebulaeto.github.io
 
-Test Site on Github Pages
+My site, Hosted using Github Pages!
+
+## Todo List
+
+⋅⋅* Update Placeholders.
+⋅⋅* Add Placeholder Pages.
+⋅⋅* Mobile Support.
+⋅⋅* Large Screen Support.
